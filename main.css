@@ -59,6 +59,15 @@ html {
  .links-container .navbar-link:hover {
      color: rgb(233,50,117);
  }
+ 
+/* Assignment 5 work here */
+.links-container .navbar-link:active {
+    color: rgb(233,50,117);
+    background-color: white;
+}
+
+ .container.narrow {
+     max-width: 56rem;
  }
 
 .hero-content {
