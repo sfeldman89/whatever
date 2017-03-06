@@ -1,0 +1,25 @@
+body {
+    background-image: url(http://wallpapershome.com/images/pages/pic_v/10121.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.myHiddenText {
+    display: none;
+}
+
+.space {
+    font-family: fantasy;
+    color: white;
+}
+
+.surprise {
+    font-size: 8px;
+}
+
+.sideBar {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    color: black;
+}
