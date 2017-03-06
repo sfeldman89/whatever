@@ -1,3 +1,0 @@
-Relative positioning works within the "flow" of the code. They tend to stack one on top of the other on a page. Absolute positioning will allow you to put elements outside of the top to bottom flow of the page. Essentially you can place an absolute element anywhere you want, without disrupting the rest of the page - for example, a background image.
-
-box-sizing: border-box will force a box to remain a certain size regardless of changes made to border or padding attributes. This is different than the default box-sizing behavior, which will automatically adjust the size of a box if these features are adjusted. The change can be made simply by adding box-sizing: border-box within CSS.
