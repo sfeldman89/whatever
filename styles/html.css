@@ -1,0 +1,13 @@
+body {
+    background-image: url(http://pngimg.com/uploads/potato/potato_PNG7078.png)
+}
+
+.sideBar {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    color: white;
+}
+.yaDummy {
+    color:darksalmon; 
+}

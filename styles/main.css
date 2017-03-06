@@ -1,0 +1,33 @@
+.disclaimer {
+    font-size: 8px;
+    text-align: right;
+}
+
+.landing {
+    background-color: red;
+}
+
+.landing .brule {
+    display: block;
+    margin: auto;
+}
+
+.landing .joke {
+    font-size: 10px;
+    text-align: center;
+}
+
+li a {
+    list-style-type: none;
+    display: block;
+    height: 30px;
+}
+
+.landing .welcome {
+    font-family: 'Arvo', serif;
+    border-bottom: solid;
+}
+
+.topic {
+    font-size: 22px;
+}
